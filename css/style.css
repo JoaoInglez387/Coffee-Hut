@@ -3,9 +3,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap%27%29%3B');
 
 :root{
-    --cor-principal: #FFFFFF;
-}
+    --cor-fundo: #FFFFFF;
+    --cor-letras: #000000;
+    --cor-link: #61ad66;
+    --cor-link-footer: #0000008f;
 
+    --cor-sombra-cx-01_nav:#0000001a; 
+    --cor-sombra-cx-03_nav:#00000012;
+
+    --cor-sombra-cx-01_footer: #000000b3; 
+    --cor-sombra-cx-02_footer: #00000080;
+    --cor-sombra-cx-03_footer: #0000001a;
+
+}
 body {
     margin: 0;
     padding: 0;
