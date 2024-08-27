@@ -5,8 +5,8 @@
 :root{
     --cor-fundo: #FFFFFF;
     --cor-letras: #000000;
-    --cor-link: #61ad66;
-    --cor-link-footer: #0000008f;
+    --cor-link: #849985;
+    --cor-link-footer: #868686;
 
     --cor-sombra-cx-01_nav:#0000001a; 
     --cor-sombra-cx-03_nav:#00000012;
@@ -14,6 +14,8 @@
     --cor-sombra-cx-01_footer: #000000b3; 
     --cor-sombra-cx-02_footer: #00000080;
     --cor-sombra-cx-03_footer: #0000001a;
+
+    --cor-sytle-footer-copyright:#0000008f;
 
 }
 body {

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+main {
+    background-color: #32312d;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 75px;
+}
+
+.banner_home {
+    margin-bottom: 32px;
+}
